@@ -1,0 +1,7 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+python-dotenv
+jupyter
+ipykernel
