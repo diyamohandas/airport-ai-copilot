@@ -1,0 +1,26 @@
+[
+  {
+    "airport_code": "SFO",
+    "memory_type": "operational_issue",
+    "content": "SFO experienced elevated cancellation rates during the morning operational period.",
+    "timestamp": "2026-09-17T14:58:05.249206"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "operational_issue",
+    "content": "SFO experienced elevated cancellation rates during the morning operational period.",
+    "timestamp": "2026-09-17T14:58:19.978607"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "agent_decision",
+    "content": "Query: SFO operations are experiencing high cancellations and large queues. Can we increase surge pricing to 1.4x? | Recommended action: request_human_approval | Compliance status: approval_required",
+    "timestamp": "2026-09-17T15:09:18.537580"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "agent_decision",
+    "content": "Query: SFO operations are experiencing high cancellations and large queues. Can we increase surge pricing to 1.4x? | Recommended action: request_human_approval | Compliance status: approval_required",
+    "timestamp": "2026-09-17T15:13:55.643074"
+  }
+]
