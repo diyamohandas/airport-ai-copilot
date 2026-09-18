@@ -22,5 +22,41 @@
     "memory_type": "agent_decision",
     "content": "Query: SFO operations are experiencing high cancellations and large queues. Can we increase surge pricing to 1.4x? | Recommended action: request_human_approval | Compliance status: approval_required",
     "timestamp": "2026-09-17T15:13:55.643074"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "agent_decision",
+    "content": "Query: What is happening at SFO and should we increase surge to 1.4x? | Recommended action: request_human_approval | Compliance status: approval_required",
+    "timestamp": "2026-09-17T15:42:08.641589"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "agent_decision",
+    "content": "Query: What is happening at SFO and should we increase surge to 1.4x? | Recommended action: request_human_approval | Compliance status: approval_required",
+    "timestamp": "2026-09-17T15:44:16.849698"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "agent_decision",
+    "content": "Query: What is happening at SFO and should we increase surge to 1.4x? | Recommended action: request_human_approval | Compliance status: approval_required",
+    "timestamp": "2026-09-17T15:45:46.285621"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "agent_decision",
+    "content": "Query: What is happening at SFO and should we increase surge to 1.4x? | Recommended action: request_human_approval | Compliance status: approval_required",
+    "timestamp": "2026-09-17T15:49:07.663317"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "agent_decision",
+    "content": "Query: What is happening at SFO and should we increase surge to 1.4x? | Recommended action: request_human_approval | Compliance status: approval_required",
+    "timestamp": "2026-09-17T15:54:16.147606"
+  },
+  {
+    "airport_code": "SFO",
+    "memory_type": "agent_decision",
+    "content": "Query: What is happening at SFO and should we increase surge to 1.4x?\n | Recommended action: request_human_approval | Compliance status: approval_required",
+    "timestamp": "2026-09-18T12:07:06.174637"
   }
 ]
